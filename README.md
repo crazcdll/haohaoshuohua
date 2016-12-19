@@ -1,3 +1,5 @@
-# My Awesome Book
+# 奇葩天团，好好说话
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+马东携奇葩天团亲授“好好说话”
+
+文字整理稿
